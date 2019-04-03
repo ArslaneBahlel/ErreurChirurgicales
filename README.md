@@ -1,7 +1,7 @@
 # ErreurChirurgicales
 
 # Présentation
-Le projet de cette année est simple : il s’agit de corriger les erreurs d’une base de données hospitalière
+Il s’agit de corriger les erreurs d’une base de données hospitalière
 qui recense les chirurgies effectuées durant 3 années consécutives. Lors d’une opération chirurgicale,
 les infirmières doivent renseigner plusieurs informations sur le tableau de bord présent dans le bloc
 opératoire : l’identifiant du bloc opératoire, le nom du chirurgien qui effectue l’opération ainsi que
