@@ -1,6 +1,6 @@
 # ErreurChirurgicales
 
-Présentation
+#Présentation
 Le projet de cette année est simple : il s’agit de corriger les erreurs d’une base de données hospitalière
 qui recense les chirurgies effectuées durant 3 années consécutives. Lors d’une opération chirurgicale,
 les infirmières doivent renseigner plusieurs informations sur le tableau de bord présent dans le bloc
@@ -12,7 +12,7 @@ Cela crée des “conflits” entre les chirurgies qu’il faut résoudre pour r
 cohérente. Votre mission, si vous l’acceptez (mais vous n’avez pas vraiment le choix), est de développer
 une application permettant de corriger ces conlits.
 
-Objectifs
+#Objectifs
 Vous aurez à votre disposition 2 bases de données. Une première base de petite taille vous permettra
 d’implémenter les fonctionnalités de base et de tester votre programme. Une seconde, bien plus grande,
 vous permettra d’éprouver votre implémentation à des erreurs atypiques qui ne répondent pas nécessairement
